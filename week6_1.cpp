@@ -54,7 +54,7 @@ int main()
         }
 
         char choilai;
-        cout << "Ban co muon tiep tuc choi nua khong (Y/N): ";
+        cout << "Ban co muon tiep tuc choi nua khong? (Y/N): ";
         cin >> choilai;
 
         if (choilai != 'y' && choilai != 'Y')
